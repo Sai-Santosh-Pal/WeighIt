@@ -5,6 +5,8 @@ from tkinter.ttk import *
 
 root = Tk()
 root.title("Weight Calculator")
+
+//COMMENT IT IF NO FAVICON NEEDED
 icon_path = r"C:\Python\Python-Projects\Weight-Converter\favicon.ico"
 root.iconbitmap(icon_path)
 root.geometry("750x750")
